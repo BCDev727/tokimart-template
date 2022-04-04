@@ -1,0 +1,34 @@
+[
+    {
+        "titleBreadcumb":"Create Item",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Create Item",
+        "checkout__formTit":"Create single collectible",
+        "checkout__inputTit":"Upload Files",
+        "checkout__inputTex":"PNG, GIF, WEBP, MP4 or MP3. Max 100mb",
+        "checkout__inputBtn":"Choose File",
+        "ItemCategory":"Item Category",
+        "blog__sidebar__item__tags":[
+            {"name":"Everyone Wins"},
+            {"name":"Art"},
+            {"name":"Voodoo Bundle"},
+            {"name":"Cards"},
+            {"name":"Special Card"}
+        ],
+        "inputTit":"Item Title",
+        "inputDesc":"Description (Optional)",
+        "inputPrice":"Item Price in ETH",
+        "inputRoyal":"Royalties",
+        "inputNum":"Number of copies",
+        "btnList":"List Item",
+        "ItemPreview":"Item Preview",
+        "featured__item__text":"vitalik buterin Pixel Portrait",
+        "itemPri1":"0.2 ETH",
+        "itemPri2":"20/20",
+        "itemPri3":"Bid 0.001 wETH",
+        "impressionsNum":"120",
+        "authorDetailsName":"Smith Wright",
+        "rate":"4.5",
+        "btnEdit":"Edit Item"
+    }
+]

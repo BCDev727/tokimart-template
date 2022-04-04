@@ -1,0 +1,38 @@
+[
+    {
+        "titleBreadcumb":"Digital Assets",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Shop style 3",
+        "DepartTit":"Department",
+        "DepartInfo":[
+            {"path":"/shop-grid" , "title":"Art"},
+            {"path":"/shop-grid" , "title":"Virtual Worlds"},
+            {"path":"/shop-grid" , "title":"NFT Gifts"},
+            {"path":"/shop-grid" , "title":"Collectibles"},
+            {"path":"/shop-grid" , "title":"Trading Cards"}
+        ],
+        "PriceTit":"Price",
+        "ColorsTit":"Colors",
+        "ColorsInfo":[
+            {"Class":"sidebar__item__color sidebar__item__color--white","text":"White" , "ID":"white"},
+            {"Class":"sidebar__item__color sidebar__item__color--gray","text":"Gray" , "ID":"gray"},
+            {"Class":"sidebar__item__color sidebar__item__color--red","text":"Red" , "ID":"red"},
+            {"Class":"sidebar__item__color sidebar__item__color--black","text":"Black" , "ID":"black"},
+            {"Class":"sidebar__item__color sidebar__item__color--blue","text":"Blue" , "ID":"blue"},
+            {"Class":"sidebar__item__color sidebar__item__color--green","text":"Green" , "ID":"green"}
+        ],
+        "PopularCatTit":"Popular Categories",
+        "PopularCatInfo":[
+            {"Class":"sidebar__item__size","htmlFor":"large" ,"text":"Everyone Wins" , "ID":"Everyone"},
+            {"Class":"sidebar__item__size","htmlFor":"large" ,"text":"Art" , "ID":"art"},
+            {"Class":"sidebar__item__size","htmlFor":"small" ,"text":"Cards" , "ID":"Card"},
+            {"Class":"sidebar__item__size","htmlFor":"medium" ,"text":"Voodoo Bundle" , "ID":"Bundle"},
+            {"Class":"sidebar__item__size mb-0","htmlFor":"small" ,"text":"Special Card" , "ID":"Card"},
+            {"Class":"sidebar__item__size mb-0","htmlFor":"tiny" ,"text":"Portals" , "ID":"Portals"}
+        ],
+        "filter__sortTit":"Sort By",
+        "Default":"Default",
+        "filter__foundNum":"16",
+        "filter__foundTit":"Products found"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "dropdownHumbTit":"Home",
+        "dropdownHumbMenuHome":[
+            {"path":"/index-1" , "name":"Home one"},
+            {"path":"/index-2" , "name":"Home Two"},
+            {"path":"/index-3" , "name":"Home Three"}
+        ],
+        "dropdownHumbNav":[
+            {"path":"#" , "name":"About"},
+            {"path":"#" , "name":"Services"}
+        ],
+        "dropdownHumbPortTit":"portfolio",
+        "dropdownHumbMenuHPort":[
+            {"path":"#" , "name":"Portfolio"},
+            {"path":"#" , "name":"Item Details"}
+        ],
+        "ContactPath":"/contact",
+        "ContactCont":"Contact",
+        "header__top__right__social":[
+            {"name":"fa fa-facebook"},
+            {"name":"fa fa-twitter"},
+            {"name":"fa fa-linkedin"},
+            {"name":"fa fa-pinterest-p"}
+        ],
+        "header__top__leftMail":"hello@domain.com",
+        "header__top__leftTit":"NFTs Assets Starting From 0.1 ETH",
+        "header__top__right__lang":"English",
+        "arrow_carrot_down":[
+            {"name":"Spanis"},
+            {"name":"English"}
+        ],
+        "login":"Login",
+        "header__menuHomeTit":"Home",
+        "header__menuHomeDown":[
+            {"path":"/index-1" , "name":"Home one"},
+            {"path":"/index-2" , "name":"Home Two"},
+            {"path":"/index-3" , "name":"Home Three"}
+        ],
+        "header__menuDicoverTit":"Dicover",
+        "header__menuDicoverDown":[
+            {"path":"/shop-grid" , "name":"Discover Style 1"},
+            {"path":"/shop-grid-2" , "name":"Discover Style 2"},
+            {"path":"/shop-grid-3" , "name":"Discover Style 3"},
+            {"path":"/shop-details" , "name":"Item Details"}
+        ],
+        "ActivityPath":"/activity",
+        "ActivityCont":"Activity",
+        "header__menuCommunityTit":"Community",
+        "header__menuCommunityDown":[
+            {"path":"/blog" , "name":"Blog"},
+            {"path":"/blog-details" , "name":"Blog Article"},
+            {"path":"/contact" , "name":"Contact"},
+            {"path":"/help-center" , "name":"Help Center"}
+        ],
+        "header__menuPagesTit":"Pages",
+        "header__menuPagesDown":[
+            {"path":"/connect-wallet" , "name":"Connect Wallet"},
+            {"path":"/authors" , "name":"Authors"},
+            {"path":"/profile" , "name":"Author Profile"},
+            {"path":"/create-item" , "name":"Create Item"},
+            {"path":"/login" , "name":"Login"},
+            {"path":"/signup" , "name":"Signup"}
+        ],
+        "header__cart__price":"$150.00",
+        "AllDepartments":"All departments",
+        "AllDepartmentsDropdown":[
+            {"path":"/shop-grid" , "name":"Art"},
+            {"path":"/shop-grid" , "name":"Virtual Worlds"},
+            {"path":"/shop-grid" , "name":"NFT Gifts"},
+            {"path":"/shop-grid" , "name":"Collectibles"},
+            {"path":"/shop-grid" , "name":"Trading Cards"}
+        ],
+        "hero__searchTit":"SEARCH",
+        "mail":"hello@domain.com",
+        "support":"support 24/7 time"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "titleBreadcumb":"Signup",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Signup",
+        "Name":"Full Name",
+        "Email":"Email Address",
+        "Password":"Password",
+        "btn":"Sign up",
+        "CopyrightTex":"All rights reserved"
+    }
+]

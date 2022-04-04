@@ -1,0 +1,24 @@
+[
+    {
+        "titleBreadcumb":"Activity",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Activity",
+        "Filters":"Filters",
+        "Search":"Search By",
+        "blog__sidebar__itemList":[
+            {"name":"All"},
+            {"name":"Art (20)"},
+            {"name":"Crypto portiats (5)"},
+            {"name":"Digital Assets (9)"},
+            {"name":"NFT Bundles (10)"}
+        ],
+        "blog__sidebar__item__tags":[
+            {"name":"Everyone Wins"},
+            {"name":"Art"},
+            {"name":"Voodoo Bundle"},
+            {"name":"Cards"},
+            {"name":"Special Card"},
+            {"name":"Portals"}
+        ]
+    }
+]

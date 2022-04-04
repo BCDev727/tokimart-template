@@ -1,0 +1,22 @@
+[
+    {
+        "titleBreadcumb":"Single Item",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Single Item",
+        "product__details__textTit":"Animal Mask: Black Panther",
+        "product__details__textItem":"Item Category :",
+        "product__details__textItemTags":"NFT Art",
+        "product__details__textTex":"Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sed porttitor lectus nibh. Vestibulum ac diam sit amet.",
+        "offerBtnTit":"10% of sales will go to creator",
+        "offerBtnBid":"Place Your Bid Now",
+        "offerBtnTex":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores quia eius corrupti asperiores porro ipsum dolor sit amet corrupti.",
+        "offerBtnLink":"Place A Bid",
+        "itemDetailTitUp":"Minimum bid",
+        "itemDetailTitMed":"0.02 wETH",
+        "itemDetailTitDown":"Which Equal ($50.72)",
+        "auctionStartTex":"Auction starts in",
+        "itemDetailTitLink":"Add to Calendar",
+        "History":"History",
+        "latest":"Latest Bids"
+    }
+]

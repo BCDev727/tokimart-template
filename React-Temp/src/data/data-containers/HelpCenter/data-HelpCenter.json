@@ -1,0 +1,32 @@
+[
+    {
+        "titleBreadcumb":"Help Center",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Help Center",
+        "Categories":"Categories",
+        "RecentNewsTit":"Recent News",
+        "Search":"Search By",
+        "blog__sidebar__itemList":[
+            {"name":"All"},
+            {"name":"Art (20)"},
+            {"name":"Crypto portiats (5)"},
+            {"name":"Digital Assets (9)"},
+            {"name":"NFT Bundles (10)"}
+        ],
+        "blog__sidebar__item__tags":[
+            {"name":"Everyone Wins"},
+            {"name":"Art"},
+            {"name":"Voodoo Bundle"},
+            {"name":"Cards"},
+            {"name":"Special Card"},
+            {"name":"Portals"}
+        ],
+        "MostAskedFAQ":"Most Asked FAQ",
+        "faqItem":[
+            {"title":"How do I create an account?" , "text":"Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit,"},
+            {"title":"Where can I see transaction details?" , "text":"Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit,"},
+            {"title":"How do I list an NFT to sell?" , "text":"Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit,"},
+            {"title":"How do royalties work on here?" , "text":"Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit,"}
+        ]
+    }
+]

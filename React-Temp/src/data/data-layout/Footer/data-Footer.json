@@ -1,0 +1,33 @@
+[
+    {
+        "Address":"Address: 60-49 Road 11378 New York",
+        "Phone":"Phone:  hello@domain.com",
+        "Email":"Email: hello@colorlib.com",
+        "UsefulLinksTit":"Useful Links",
+        "UsefulLinksUp":[
+            {"path":"/" , "name":"Home"},
+            {"path":"/activity" , "name":"Activity"},
+            {"path":"/shop-grid" , "name":"Discover"},
+            {"path":"/shop-grid-2" , "name":"Our Shop"},
+            {"path":"/shop-grid-3" , "name":"New Items"},
+            {"path":"/create-item" , "name":"Create Item"}
+        ],
+        "UsefulLinksDown":[
+            {"path":"/contact" , "name":"Contact"},
+            {"path":"/blog" , "name":"Blog"},
+            {"path":"/blog-details" , "name":"Blog Post"},
+            {"path":"/help-center" , "name":"Help Center"},
+            {"path":"/authors" , "name":"Authors"},
+            {"path":"/connect-wallet" , "name":"Add Wallet"}
+        ],
+        "footer__widgetTit":"Join Our Newsletter Now",
+        "footer__widgetTex":"Get E-mail updates about our latest shop and special offers.",
+        "Subscribe":"Subscribe",
+        "footerSocial":[
+            {"name":"fa fa-facebook"},
+            {"name":"fa fa-instagram"},
+            {"name":"fa fa-twitter"},
+            {"name":"fa fa-pinterest"}
+        ]
+    }
+]

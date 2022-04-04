@@ -1,0 +1,112 @@
+[
+    {
+        "trendingTittle":"Trending now",
+        "Typed1":"Bangladesh dolor sit amet, consectetur adipisicing elit.",
+        "Typed2":"Spondon IT sit amet, consectetur.......",
+        "Typed3":"Rem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "trendTopCapTit":"Appetizers",
+        "trendTopCapText1":"Welcome To The Best Model Winner",
+        "trendTopCapText2":"Contest At Look of the year",
+        "trendTopCapPath":"/details",
+        "WeeklyNewsAreaSectionTittle":"Weekly Top News",
+        "WhatsNewsAreaSectionTittle":"Whats New",
+        "properties__button":[
+            {
+                "name":"All",
+                "Class":"nav-item nav-link active",
+                "ID":"nav-home-tab",
+                "path":"nav-home",
+                "ariaSelected":true
+            },
+            {
+                "name":"Lifestyle",
+                "Class":"nav-item nav-link",
+                "ID":"nav-profile-tab",
+                "path":"nav-profile",
+                "ariaSelected":false
+            },
+            {
+                "name":"Travel",
+                "Class":"nav-item nav-link",
+                "ID":"nav-contact-tab",
+                "path":"nav-contact",
+                "ariaSelected":false
+            },
+            {
+                "name":"Fashion",
+                "Class":"nav-item nav-link",
+                "ID":"nav-last-tab",
+                "path":"nav-last",
+                "ariaSelected":false
+            },
+            {
+                "name":"Sports",
+                "Class":"nav-item nav-link",
+                "ID":"nav-Sports",
+                "path":"nav-nav-Sport",
+                "ariaSelected":false
+            },
+            {
+                "name":"Technology",
+                "Class":"nav-item nav-link",
+                "ID":"nav-technology",
+                "path":"nav-techno",
+                "ariaSelected":false
+            }
+        ],
+        "Weekly2TopNewsSectionTittle":"Weekly Top News",
+        "StartYoutubeVideoItemsActive":[
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            },
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            },
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            },
+            {
+                "src":"https://www.youtube.com/embed/TKnufs85hXk",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            },
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            }
+        ],
+        "StartYoutubeTopCaption":"Politics",
+        "StartYoutubeBottomCaptionTitle":"Welcome To The Best Model Winner Contest At Look of the year",
+        "StartYoutubeBottomCaptionText":"Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod ipsum dolor sit. Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod ipsum dolor sit. Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod ipsum dolor sit lorem ipsum dolor sit.",
+        "StartYoutubeTestmonialNav":[
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                "videoIntro":"Welcotme To The Best Model Winner Contest"
+            },
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                "videoIntro":"Welcotme To The Best Model Winner Contest"
+            },
+            {
+                "src":"https://www.youtube.com/embed/rIz00N40bag",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                "videoIntro":"Welcotme To The Best Model Winner Contest"
+            },
+            {
+                "src":"https://www.youtube.com/embed/TKnufs85hXk",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                "videoIntro":"Welcotme To The Best Model Winner Contest"
+            },
+            {
+                "src":"https://www.youtube.com/embed/AUhCNjagKZA",
+                "allow":"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                "videoIntro":"Welcotme To The Best Model Winner Contest"
+            }
+        ],
+        "RecentArticlesTitle":"Recent Articles"
+    }
+]

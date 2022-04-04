@@ -1,0 +1,11 @@
+[
+    {
+        "titleBreadcumb":"Login",
+        "TextUpBreadcumb":"Home",
+        "TextDownBreadcumb":"Login",
+        "Email":"Email Address",
+        "Password":"Password",
+        "btn":"LOGIN",
+        "CopyrightTex":"All rights reserved"
+    }
+]

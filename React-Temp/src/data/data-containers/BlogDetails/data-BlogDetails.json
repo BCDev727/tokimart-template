@@ -1,0 +1,48 @@
+[
+    {
+        "titleBreadcumb":"Blog Post",
+        "TextUpBreadcumb":"By Michael Scofield",
+        "TextMedBreadcumb":"January 14, 2021",
+        "TextDownBreadcumb":"8 Comments",
+        "Categories":"Categories",
+        "RecentNewsTit":"Recent News",
+        "Search":"Search By",
+        "blog__sidebar__itemList":[
+            {"name":"All"},
+            {"name":"Art (20)"},
+            {"name":"Crypto portiats (5)"},
+            {"name":"Digital Assets (9)"},
+            {"name":"NFT Bundles (10)"}
+        ],
+        "blog__sidebar__item__tags":[
+            {"name":"Everyone Wins"},
+            {"name":"Art"},
+            {"name":"Voodoo Bundle"},
+            {"name":"Cards"},
+            {"name":"Special Card"},
+            {"name":"Portals"}
+        ],
+        "blog__details__textH3":"Visit the Creative NFTs Marketplace",
+        "blog__details__textPUp":"Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
+        "blog__details__textPDown":"The study area is located at the back with a view of the vast nature. Together with the other the components. The use of materials seeks connection to the main house, the adjacent stables",
+        "itemPriTit":"Michael Scofield",
+        "itemPriTex":"Blog Admin",
+        "Categories":"Categories:",
+        "itemCat":"Special Cards",
+        "Tags":"Tags:",
+        "catList":[
+            {"name":"All"},
+            {"name":"Trending"},
+            {"name":"Digital"},
+            {"name":"NFT"}
+        ],
+        "blog__details__social":[
+            {"name":"fa fa-facebook"},
+            {"name":"fa fa-twitter"},
+            {"name":"fa fa-google-plus"},
+            {"name":"fa fa-linkedin"},
+            {"name":"fa fa-envelope"}
+        ],
+        "FromTheBlogTit":"Post You May Like"
+    }
+]

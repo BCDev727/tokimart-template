@@ -1,0 +1,26 @@
+[
+    {
+        "dataHeroSec":[
+            {
+                "offerSpan":"Creative NFT Digital  Assets",
+                "title":"Discover and Collect",
+                "heroSpan":"NFT Assets",
+                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
+                "ShopBtn":"SHOP NOW"
+            }
+        ],
+        "TopSellersClassDiv":"latest-product section-padding-100-0",
+        "titleTopSellers":"Top Sellers",
+        "titleFeaturedAssets":"Featured Assets",
+        "featured__controls":[
+            {"Class":"active","dataFilter":"*" , "title":"All"},
+            {"Class":"","dataFilter":".art" , "title":"Art"},
+            {"Class":"","dataFilter":".virtual-worlds" , "title":"Virtual Worlds"},
+            {"Class":"","dataFilter":".Collectibles" , "title":"Collectibles"},
+            {"Class":"","dataFilter":".trading-cards" , "title":"Trading Cards"}
+        ],
+        "LoadMoreFeaturedAssets":"Load More",
+        "titleLiveAuctions":"Live auctions",
+        "titleFromTheBlog":"From The Blog"
+    }
+]
